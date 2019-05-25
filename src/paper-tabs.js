@@ -3,6 +3,7 @@ import { LitElement, html } from 'lit-element';
 import '@polymer/paper-tabs';
 import '@polymer/paper-tabs/paper-tab.js';
 import '@polymer/paper-button';
+import '@polymer/iron-pages';
 import './slotted-img';
 import './shuffled-img';
 import 'jquery';
