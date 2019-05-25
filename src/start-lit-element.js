@@ -134,6 +134,7 @@ export class StartLitElement extends LitElement {
                 <li>render</li>
                 <li>firstUpdated</li>
                 <li>template literals</li>
+                <li>slots</li>
               </ul>
             </div>
 
